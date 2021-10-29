@@ -41,3 +41,10 @@ ZCZC W05 10 L14 Copying the result (WEEK05-MEMORY.txt)
 ZCZC W05 25 L17 Reviewing peer links
 ZCZC W05 10 L18 Updating mylog.txt
 ZCZC W05 15 L18 Submitting assignments
+ZCZC W06 45 L22 Quiz W05
+ZCZC W06 15 L09 Contact W06 
+ZCZC W06 60 L14 Doing Assignments
+ZCZC W06 10 L17 Review Links
+ZCZC W06 10 L18 Updating logs
+ZCZC W06 15 L19 Submitting assignment
+

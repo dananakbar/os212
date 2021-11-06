@@ -47,4 +47,11 @@ ZCZC W06 60 L14 Doing Assignments
 ZCZC W06 10 L17 Review Links
 ZCZC W06 10 L18 Updating logs
 ZCZC W06 15 L19 Submitting assignment
-
+ZCZC W07 10 L00 Accessing os1.cs.ui.ac.id
+ZCZC W07 20 L14 Fetching and extracting WEEK07.tar.bz2.asc
+ZCZC W07 5 L14 Running "000-README.txt." script
+ZCZC W07 40 L14 Reading and studying 001-how-to-get-file-WEEK07-REPORT2.txt file
+ZCZC W07 20 L14 Retrieving and copying the result
+ZCZC W07 10 L17 Review Links
+ZCZC W07 10 L18 Updating logs
+ZCZC W07 15 L19 Submitting assignment

@@ -55,3 +55,10 @@ ZCZC W07 20 L14 Retrieving and copying the result
 ZCZC W07 10 L17 Review Links
 ZCZC W07 10 L18 Updating logs
 ZCZC W07 15 L19 Submitting assignment
+ZCZC W08 10 L00 Contact through os1.cs.ui.ac.id
+ZCZC W08 50 L14 Preparation
+ZCZC W08 120 L14 Downloading and setting up LFS 11.0
+ZCZC W08 180 L15 LFS 11.0 Chapter 05 - Compiling a Cross-Toolchaim
+ZCZC W08 10 L18 Review Links
+ZCZC W08 10 L19 Updating logs
+ZCZC W08 10 L20 Submitting assignment
